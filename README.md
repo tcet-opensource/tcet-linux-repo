@@ -1,27 +1,26 @@
-# TCET linux repo
+# TCET Linux Repo
 
-Tcet Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet-opensource/tcet-linux).
-This repository contains custom packages made for TCET Linux.
+Tcet Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet-opensource/tcet-linux) which helps users keep their system up to date with the latest security patches and bug fixes. 
 
-# Warning:
+## Warning
 
-# Rolling Release
+*Please proceed with caution in this repository the packages uploaded in this repository go directly to users. Any bugs in these packages will be reflected in all installions of tcet linux*
 
-TCET Linux is a rolling release distribution.The packages for tcet linux repositories hosted with github pages making them available to all tcet linux users.
+## Rolling Release
 
-Looking at the [pacman.conf](https://github.com/tcet-opensource/tcet-linux/blob/main/airootfs/etc/pacman.conf) file for a default tcet-linux installation.
+***TCET Linux*** is a **rolling release** Arch-based Linux Distribution. The packages for tcet linux repositories are hosted with github pages making updates and new features available to all tcet linux users.
+
+Looking at the **[pacman.conf](https://github.com/tcet-opensource/tcet-linux/blob/main/airootfs/etc/pacman.conf)** file for a default tcet-linux installation.
 
 ### pacman.conf
 ```bash
 [tcet-linux-repo]
 SigLevel = Optional TrustedOnly
-Server = https://tcet-opensource.github.io/$repo/$arch #url to the tcet linux repo
+Server = https://tcet-opensource.github.io/$repo/$arch # url to the tcet linux repo
 ```
 
-we see a url to the deployed tcet-linux repo.
-
-# List of packages
+## List of packages
 ....
 
+## Important Links
 
-# Important Links
