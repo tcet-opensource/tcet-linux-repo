@@ -1,6 +1,6 @@
 # TCET Linux Repo
 
-Tcet Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet-opensource/tcet-linux) which helps users keep their system up to date with the latest security patches and bug fixes. 
+TCET Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet-opensource/tcet-linux) which helps users keep their system up to date with the latest security patches and bug fixes. 
 
 ## Warning
 
