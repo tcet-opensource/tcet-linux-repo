@@ -8,7 +8,7 @@ Tcet Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet
 
 ## Rolling Release
 
-***TCET Linux*** is a **rolling release** distro. The packages in this repository are hosted with github pages making updates and new features available to all TCET Linux users.
+***TCET Linux*** is a **rolling release** distro. The packages in this repository are hosted with github pages making updates and new features available to *all* TCET Linux users.
 
 Looking at the **[pacman.conf](https://github.com/tcet-opensource/tcet-linux/blob/main/airootfs/etc/pacman.conf)** file for a default TCET linux installation.
 
@@ -30,7 +30,7 @@ Server = https://tcet-opensource.github.io/$repo/$arch # url to the TCET Linux r
 |tcet-linux-wallpaper | Custom Wallpapers for TCET Linux   |
 |tcet-linux-welcome | Welcome App for TCET Linux       |
 |vimix-cursors | Cursor Theme      |
-|tela-circle-icon-2-any |  Icon Pack     |
+|tela-circle-icon |  Icon Pack     |
 |nerd-fonts-noto-sans-regular-complete |Default System Font  |
 |zsh-autosuggestions-git | Terminal Autosuggestion Utility      |
 |zsh-fast-syntax-highlighting | Terminal Syntax Highlighting Utility      |
