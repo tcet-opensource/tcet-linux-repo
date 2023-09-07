@@ -4,13 +4,13 @@ Tcet Linux Repo is a Package Repository for [TCET Linux](https://github.com/tcet
 
 ## Warning
 
-*Please proceed with caution in this repository the packages uploaded in this repository go directly to users. Any bugs in these packages will be reflected in all installions of TCET linux.*
+*Please proceed with caution in this repository the packages uploaded in this repository go directly to users. Any bugs in these packages will be reflected in all installations of TCET Linux.*
 
 ## Rolling Release
 
 ***TCET Linux*** is a **rolling release** distro. The packages in this repository are hosted with github pages making updates and new features available to *all* TCET Linux users.
 
-Looking at the **[pacman.conf](https://github.com/tcet-opensource/tcet-linux/blob/main/airootfs/etc/pacman.conf)** file for a default TCET linux installation.
+Looking at the **[pacman.conf](https://github.com/tcet-opensource/tcet-linux/blob/main/airootfs/etc/pacman.conf)** file for a default TCET Linux installation.
 
 ### pacman.conf
 ```bash
